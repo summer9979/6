@@ -1,0 +1,15 @@
+body 
+{
+	background-color:#02FE9E;
+	margin-left:20%;
+	margin-right:20%;
+	border:5px dotted white;
+	padding:10px 10px 10px 10px;
+	font-family:sans-serif;
+}
+
+p
+{
+	text-indent:1em;
+}
+
